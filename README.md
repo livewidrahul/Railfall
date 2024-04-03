@@ -1,4 +1,4 @@
-# Railfall
+# Rainfall
 A Data science project to predict Railfall
 Weather Prediction Machine Learning Model
 Problem Statement:
